@@ -1,0 +1,29 @@
+body {text-align:center}
+
+a {
+  text-decoration: none;
+}
+
+h1  {
+   color: orange;
+   font-size: 55px;
+   text-decoration: underline;
+   background:#D8D8D8;
+}
+
+
+
+h3{
+  font-size: 24px;
+}
+
+h4 {color: red;
+  font-size: 65px;
+
+}
+
+h5 {
+  font-size: 65px;
+  color: yellow;
+}
+

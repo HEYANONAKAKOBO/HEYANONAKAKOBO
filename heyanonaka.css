@@ -1,0 +1,14 @@
+h1 {
+  color: orange;
+  font-size:32px;
+}
+
+header{
+  background: gray;
+
+}
+<header style="color: gray;"></header>
+
+h3 {
+  font-size:32px;
+}
